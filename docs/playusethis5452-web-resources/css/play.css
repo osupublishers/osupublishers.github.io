@@ -147,8 +147,7 @@ section.thebody {
   margin: auto;
   padding: 1%;
 }
-div.sceneImage {
-}
+
 
 p.character {font-variant:small-caps;
 }
@@ -171,8 +170,7 @@ p.play_location {
   background-color:rgb(59, 11, 11);
   padding: .3em;
 }
-p.prose {
-}
+
 h2.scene {text-align: center;
 }
 p.song {font-family:cursive;
